@@ -1,0 +1,7 @@
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
