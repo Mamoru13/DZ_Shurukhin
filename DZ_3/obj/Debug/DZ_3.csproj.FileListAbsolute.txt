@@ -1,0 +1,6 @@
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DZ\DZ_3\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DZ\DZ_3\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DZ\DZ_3\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DZ\DZ_3\DemoProject\obj\Debug\DZ_3.csproj.CoreCompileInputs.cache
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DZ\DZ_3\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\DOCTO\OneDrive\Рабочий стол\Обучение GeekBrains\Основы языка C#\DZ\DZ_3\DemoProject\obj\Debug\DemoProject.pdb
