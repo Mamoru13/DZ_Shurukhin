@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Message.cs" />
+    <Compile Include="DZ_5.cs" />
+    <Compile Include="Zadanie_1.cs" />
     <Compile Include="My.cs" />
     <Compile Include="Zadanie_5.cs" />
-    <Compile Include="Zadanie_4.cs" />
     <Compile Include="Zadanie_3.cs" />
+    <Compile Include="Zadanie_2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
